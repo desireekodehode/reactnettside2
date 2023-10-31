@@ -1,0 +1,24 @@
+:root {
+    --primary-color: #007bff;
+    --secondary-color: #ff6600;
+  }
+  
+  body {
+    background-color: var(--primary-color);
+  }
+  
+nav {
+    .logo { 
+        background-color: coral;
+
+    }
+
+}
+
+  footer {
+    background-color: var(--secondary-color);
+    img {
+      width: 50px;
+      height: 50px;
+    }
+  }/*# sourceMappingURL=app.css.map */
